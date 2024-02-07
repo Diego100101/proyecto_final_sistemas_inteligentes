@@ -1,3 +1,13 @@
+#######################################################################################################################
+# Solución de knapsack problem con BPSO
+#######################################################################################################################
+# Universidad Autónoma Metropolitana
+# Equipo miel.
+# Diego Cantoral González
+# Anahi Betzayda Martínez Hernández
+# Hector Plata
+#######################################################################################################################
+
 import random
 import numpy as np
 import matplotlib.pyplot as plt
