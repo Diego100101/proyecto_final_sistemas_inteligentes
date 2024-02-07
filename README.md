@@ -1,15 +1,12 @@
 # Knapsack problem BPSO
 
-En este repositorio se encuentran la implementación de un PSO 
-binario para la resolución del problema combinatorio de la mochila.
+En este repositorio se encuentran la implementación de un PSO binario para la resolución del problema combinatorio de la mochila.
 
 # Gráfica de caja y brazos
 
 ![grafica](knapsack1.png)
 
-El resultado de nuestra implementación con los valores y pesos especificados
-nos dieron como resultado la gráfica de caja y brazos para observar la distribución.
-Podemos observar un valor máximo de 6,935 con los siguientes valores especificados.
+El resultado de nuestra implementación con los valores y pesos especificados nos dieron como resultado la gráfica de caja y brazos para observar la distribución. Podemos observar un valor máximo de 6,935 con los siguientes valores especificados.
 
 ```python
 
